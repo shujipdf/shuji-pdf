@@ -1,5 +1,3 @@
-# shuji-pdf
-Convert PDF drawings to editable CAD (DXF), offline for Windows 10/11
 Shuji PDF — Windows releases
 
     Shuji PDF turns a PDF drawing into an editable CAD file (DXF) on your own PC — nothing is uploaded.
